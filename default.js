@@ -347,6 +347,4 @@
     "Expect a response within 24 hours when you reach out via email!",
   FootTitle:
     "💖 Crafted with Next.js 14, Tailwind CSS, Framer Motion, Shadcn UI, Radix UI, and React Icons",
-};
-
-export default data;
+}
