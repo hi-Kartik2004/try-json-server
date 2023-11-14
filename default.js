@@ -10,7 +10,7 @@
   linkedinUrl: "https://www.linkedin.com/in/kartikeya-saini-65504b240/",
   WhatsAppLink: "https://wa.me/916360006359",
   email: "kudlu2004@gmail.com",
-  HeroTitle: () => (
+  HeroTitle: "() => (
     <>
       <span className="bg-gradient-to-br from-left-gradient to-right-gradient text-clip bg-clip-text text-transparent">
        Default Page,
@@ -18,8 +18,8 @@
       <br className="hidden md:inline-block" />
       <p className="mt-1">Building Tomorrow's Digital Landscape.</p>
     </>
-  ),
-  HeroSubtitle: () => (
+  )",
+  HeroSubtitle: "() => (
     <React.Fragment className="text-muted-foreground">
       As a 2nd-year Information Science Engineering undergrad, I thrive as a
       Front-End Developer, notably contributing to Cisco ThingQBator where I
@@ -29,7 +29,7 @@
       record and coding contest victories, I'm passionate about crafting
       seamless and engaging user experiences.
     </React.Fragment>
-  ),
+  )",
   AboutBadge: "Proud Geek_",
   AboutTitle: "About",
   AboutTitleGradient: "Me",
@@ -40,7 +40,7 @@
   AboutImageCenter: "https://avatars.githubusercontent.com/u/111000515?v=4",
   AboutImageRight:
     "https://media-maa2-2.cdn.whatsapp.net/v/t61.24694-24/349035960_938959620717155_2274104282359227756_n.jpg?ccb=11-4&oh=01_AdQ6Rtl8GUNVubjPEGKZfqp0ti7m6DswGst_M0nvcQAbsQ&oe=655CCFAE&_nc_sid=e6ed6c&_nc_cat=110",
-  AboutMainDescription: () => (
+  AboutMainDescription: "() => (
     <React.Fragment className="text-muted-foreground">
       <p>
         Having ventured into Frontend, Backend, and UI/UX design realms, akin to
@@ -52,9 +52,9 @@
         </span>
       </p>
     </React.Fragment>
-  ),
+  )",
 
-  AboutOtherDescription: () => {
+  AboutOtherDescription: "() => {
     return (
       <React.Fragment className="text-muted-foreground">
         Delving into the tech world, I've worn multiple hats – from being an
@@ -73,7 +73,7 @@
         </span>
         to my teamwork and leadership skills.
       </React.Fragment>
-    );
+    )";
   },
 
   AboutMockCode: `const name = 'Kartikeya';
