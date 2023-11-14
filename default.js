@@ -1,6 +1,4 @@
-import React from "react";
-
-const data = {
+{
   NavName: "Kartikeya Saini",
   FirstName: "Kartikeya",
   LastName: "Saini",
